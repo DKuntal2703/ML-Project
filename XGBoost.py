@@ -1,4 +1,8 @@
 # app.py
+pip install matplotlib
+pip install seaborn
+pip install sklearn
+pip install imblearn
 import streamlit as st
 import pandas as pd
 import numpy as np
